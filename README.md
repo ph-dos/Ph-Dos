@@ -1,6 +1,4 @@
-#### Welcome to  profile!
 <div>I'm a student interested in Network & Backend development.</div>
-<div>My current obsessions are Rust, Go, ML, and Low latency data streams using UDP & TCP.</div>
 <br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ph-dos&show_icons=true&theme=calm&border_radius=0" alt="@ph-dos GitHub stats" />
