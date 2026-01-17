@@ -1,4 +1,4 @@
-<div>Hi, I’m just a lead team-lead told by my team-lead to train three co-team-leads how to train my team.</div>
+<strong>Hi, I’m just a lead team-lead told by my team-lead to train three co-team-leads how to train my team.</strong>
 <br>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Ph-Dos&theme=calm&border_radius=0" alt="GitHub Streak" />
